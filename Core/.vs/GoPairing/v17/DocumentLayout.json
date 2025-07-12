@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Development\\Applique\\gopairing\\GoPairing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4727131-2257-4186-A2AB-A62DD32419C0}|GoPairing.Test\\GoPairing.Test.csproj|c:\\development\\applique\\gopairing\\gopairing\\gopairing.test\\gopairing.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A4727131-2257-4186-A2AB-A62DD32419C0}|GoPairing.Test\\GoPairing.Test.csproj|solutionrelative:gopairing.test\\gopairing.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4727131-2257-4186-A2AB-A62DD32419C0}|GoPairing.Test\\GoPairing.Test.csproj|c:\\development\\applique\\gopairing\\gopairing\\gopairing.test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4727131-2257-4186-A2AB-A62DD32419C0}|GoPairing.Test\\GoPairing.Test.csproj|solutionrelative:gopairing.test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{971D6C32-C3EF-44BF-894E-E7183B4565EA}|GoPairing\\GoPairing.csproj|c:\\development\\applique\\gopairing\\gopairing\\gopairing\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971D6C32-C3EF-44BF-894E-E7183B4565EA}|GoPairing\\GoPairing.csproj|solutionrelative:gopairing\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoPairing.Test",
+              "DocumentMoniker": "C:\\Development\\Applique\\gopairing\\GoPairing\\GoPairing.Test\\GoPairing.Test.csproj",
+              "RelativeDocumentMoniker": "GoPairing.Test\\GoPairing.Test.csproj",
+              "ToolTip": "C:\\Development\\Applique\\gopairing\\GoPairing\\GoPairing.Test\\GoPairing.Test.csproj",
+              "RelativeToolTip": "GoPairing.Test\\GoPairing.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-12T17:00:40.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Development\\Applique\\gopairing\\GoPairing\\GoPairing.Test\\Class1.cs",
+              "RelativeDocumentMoniker": "GoPairing.Test\\Class1.cs",
+              "ToolTip": "C:\\Development\\Applique\\gopairing\\GoPairing\\GoPairing.Test\\Class1.cs",
+              "RelativeToolTip": "GoPairing.Test\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:59:39.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Development\\Applique\\gopairing\\GoPairing\\GoPairing\\Class1.cs",
+              "RelativeDocumentMoniker": "GoPairing\\Class1.cs",
+              "ToolTip": "C:\\Development\\Applique\\gopairing\\GoPairing\\GoPairing\\Class1.cs",
+              "RelativeToolTip": "GoPairing\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T16:59:11.037Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 673,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{9a7cebbb-dc5c-4986-bc49-962da46aa506}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
