@@ -17,6 +17,32 @@ public class WhenCreatePairing : Spec<GoPairing.Tournament, Pairing>
     public class GivenOneParticipant : WhenCreatePairing
     {
         public GivenOneParticipant() => Given(One<Player>());
-        [Fact] public void ThenGetOneDefault() => Result.Matches.Has().Single().That.IsUnmatched.Is(true);
+        [Fact] public void ThenGetOneUnmatched() => Result.Matches.Has().Single().That.IsMatched.Is(false);
     }
+
+    public class GivenTwoParticipants : WhenCreatePairing
+    {
+        public GivenTwoParticipants() => Given(Two<Player>());
+
+        [Fact]
+        public void ThenGetOneMatch()
+        {
+            var match = Result.Matches.Has().Single().That;
+            match.IsMatched.Is(true);
+            Two<Player>().Is().Like([match.Black, match.White]);
+        }
+    }
+
+    //public class GivenThreeParticipants : WhenCreatePairing
+    //{
+    //    public GivenThreeParticipants() => Given(Three<Player>());
+
+    //    [Fact]
+    //    public void ThenGetOneMatch()
+    //    {
+    //        var match = Result.Matches.Has().Single().That;
+    //        match.IsMatched.Is(true);
+    //        Two<Player>().Is().Like([match.Black, match.White]);
+    //    }
+    //}
 }
